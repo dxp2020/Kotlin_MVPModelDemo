@@ -1,0 +1,1 @@
+include ':app', ':kt_mvp_architecture', ':kt_base'
